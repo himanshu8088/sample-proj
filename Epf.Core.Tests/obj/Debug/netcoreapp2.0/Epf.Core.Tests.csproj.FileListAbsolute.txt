@@ -1,0 +1,16 @@
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\Epf.Core.Tests.deps.json
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\Epf.Core.Tests.runtimeconfig.json
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\Epf.Core.Tests.runtimeconfig.dev.json
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\Epf.Core.Tests.dll
+D:\Practice Work\Epf\Epf.Core.Tests\obj\Debug\netcoreapp2.0\Epf.Core.Tests.csprojResolveAssemblyReference.cache
+D:\Practice Work\Epf\Epf.Core.Tests\obj\Debug\netcoreapp2.0\Epf.Core.Tests.csproj.CoreCompileInputs.cache
+D:\Practice Work\Epf\Epf.Core.Tests\obj\Debug\netcoreapp2.0\Epf.Core.Tests.AssemblyInfoInputs.cache
+D:\Practice Work\Epf\Epf.Core.Tests\obj\Debug\netcoreapp2.0\Epf.Core.Tests.AssemblyInfo.cs
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\Epf.Core.Tests.pdb
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\Epf.Core.dll
+D:\Practice Work\Epf\Epf.Core.Tests\bin\Debug\netcoreapp2.0\Epf.Core.pdb
+D:\Practice Work\Epf\Epf.Core.Tests\obj\Debug\netcoreapp2.0\Epf.Core.Tests.dll
+D:\Practice Work\Epf\Epf.Core.Tests\obj\Debug\netcoreapp2.0\Epf.Core.Tests.pdb

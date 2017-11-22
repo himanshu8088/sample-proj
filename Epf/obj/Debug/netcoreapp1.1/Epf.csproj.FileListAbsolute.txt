@@ -1,0 +1,11 @@
+D:\Practice Work\Epf\Epf\bin\Debug\netcoreapp1.1\Epf.deps.json
+D:\Practice Work\Epf\Epf\bin\Debug\netcoreapp1.1\Epf.runtimeconfig.json
+D:\Practice Work\Epf\Epf\bin\Debug\netcoreapp1.1\Epf.runtimeconfig.dev.json
+D:\Practice Work\Epf\Epf\bin\Debug\netcoreapp1.1\Epf.dll
+D:\Practice Work\Epf\Epf\bin\Debug\netcoreapp1.1\Epf.pdb
+D:\Practice Work\Epf\Epf\obj\Debug\netcoreapp1.1\Epf.csprojResolveAssemblyReference.cache
+D:\Practice Work\Epf\Epf\obj\Debug\netcoreapp1.1\Epf.csproj.CoreCompileInputs.cache
+D:\Practice Work\Epf\Epf\obj\Debug\netcoreapp1.1\Epf.AssemblyInfoInputs.cache
+D:\Practice Work\Epf\Epf\obj\Debug\netcoreapp1.1\Epf.AssemblyInfo.cs
+D:\Practice Work\Epf\Epf\obj\Debug\netcoreapp1.1\Epf.dll
+D:\Practice Work\Epf\Epf\obj\Debug\netcoreapp1.1\Epf.pdb
